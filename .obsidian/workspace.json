@@ -11,10 +11,14 @@
             "id": "4688cd0bee450235",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "roadmap/1단계_웹_네트워크.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1단계_웹_네트워크"
             }
           }
         ]
@@ -162,7 +166,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a1a5b9b3061d3be9",
+  "active": "4688cd0bee450235",
   "lastOpenFiles": [
     "daily/2025-08-27.md",
     "template/topic_template.md",
