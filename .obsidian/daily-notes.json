@@ -1,4 +1,5 @@
 {
-  "folder": "daily",
-  "template": "template/topic_template"
+  "folder": "daily/1주차_브라우저 동작 원리 이해",
+  "template": "template/daily_template",
+  "format": "YY.MM.DD"
 }

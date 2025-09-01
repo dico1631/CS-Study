@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Render Test</title>
+  <style>
+    .box {
+      width: 100px;
+      height: 100px;
+      background: tomato;
+      transition: transform 0.3s, opacity 0.3s;
+    }
+    .moved {
+      transform: translateX(100px);
+      opacity: 0.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="box"></div>
+  <script>
+    setTimeout(() => {
+      document.querySelector(".box").classList.add("moved");
+    }, 1000);
+  </script>
+</body>
+</html>
